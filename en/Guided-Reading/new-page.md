@@ -1,8 +1,8 @@
 ---
-title: page1
+title: Country and Revolution (Государство и революция)
 description: 
 published: true
-date: 2022-08-24T01:26:33.043Z
+date: 2022-08-24T01:27:18.644Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-24T01:09:42.625Z
