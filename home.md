@@ -2,7 +2,7 @@
 title: [HOME PAGE] 欢迎来到红色维基百科！
 description: 
 published: true
-date: 2022-08-24T04:08:11.710Z
+date: 2022-08-24T05:01:21.223Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-16T06:09:43.446Z
@@ -30,10 +30,9 @@ dateCreated: 2022-05-16T06:09:43.446Z
 
 如果您想查找一些马克思主义的概念，那么您可以去[词条](https://wikired.xyz/zh/%E8%AF%8D%E6%9D%A1/%E4%BF%AE%E6%AD%A3%E4%B8%BB%E4%B9%89)目录进行查找，并且对不完全的词条进行补全。
 
-人类解放事业迫切需要大家的付出。
-
-以上。
+人类解放事业迫切需要大家的付出。快开始吧，同志们
 
 >世界上怕就怕“认真”二字！ -- 毛泽东
 
-![f03e9b4b226545b65ba305e00c979e38.jpeg](/f03e9b4b226545b65ba305e00c979e38.jpeg)![680e94c2d6c16c135da37a3c61bb98cf.jpeg](/680e94c2d6c16c135da37a3c61bb98cf.jpeg)
+![f03e9b4b226545b65ba305e00c979e38.jpeg](/f03e9b4b226545b65ba305e00c979e38.jpeg)
+![680e94c2d6c16c135da37a3c61bb98cf.jpeg](/680e94c2d6c16c135da37a3c61bb98cf.jpeg)
