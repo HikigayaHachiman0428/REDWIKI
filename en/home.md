@@ -2,7 +2,7 @@
 title: [Home Page] Welcome to Red Wiki!
 description: 
 published: true
-date: 2022-08-24T14:09:47.270Z
+date: 2022-08-24T14:21:17.071Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-24T13:31:37.792Z
@@ -33,3 +33,6 @@ If you want to search for some Marxist concepts, you can go to "Entries" to look
 
 The ambitious cause of humanity's liberation desperately requires the help and efforts of everyone! Let's begin now, comrades!
 
+> The words "Be Serious" are what to fear!  -ZeDong, Mao
+
+![680e94c2d6c16c135da37a3c61bb98cf.jpeg](/680e94c2d6c16c135da37a3c61bb98cf.jpeg)
