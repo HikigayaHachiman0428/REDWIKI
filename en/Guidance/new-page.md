@@ -1,8 +1,8 @@
 ---
-title: Country and Revolution
+title: How do I
 description: 
 published: true
-date: 2022-08-24T01:14:58.005Z
+date: 2022-08-24T01:17:07.337Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-24T01:09:42.625Z
