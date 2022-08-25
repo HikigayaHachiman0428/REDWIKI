@@ -1,8 +1,8 @@
 ---
-title: “5w”：“who”谁来实现马克思主义？
+title: “who”谁来实现马克思主义？
 description: 5w
 published: true
-date: 2022-08-25T06:44:25.696Z
+date: 2022-08-25T06:45:10.673Z
 tags: 非时政类, 入门
 editor: markdown
 dateCreated: 2022-08-25T06:43:34.652Z
