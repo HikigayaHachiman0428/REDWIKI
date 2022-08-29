@@ -2,11 +2,12 @@
 title: [Home Page] Welcome to Red Wiki!
 description: 
 published: true
-date: 2022-08-24T14:21:17.071Z
+date: 2022-08-29T05:37:01.043Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-24T13:31:37.792Z
 ---
+
 
 # Welcome to Red Wiki
 Welcome, comrade!
